@@ -45,7 +45,7 @@ Extracts and analyzes business logic from stored procedures, ETL jobs, and wareh
 
 | | |
 |---|---|
-| **Company** | [digitalrain.studio](https://digitalrain.studio) |
+| **Company** | [digitalrain.dev](https://digitalrain.dev) |
 | **Founder** | [augustinchan.dev](https://augustinchan.dev) |
 | **Twitter/X** | [@aug_digitalrain](https://x.com/aug_digitalrain) |
 | **LinkedIn** | [linkedin.com/in/auchan](https://www.linkedin.com/in/auchan) |

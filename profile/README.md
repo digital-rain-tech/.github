@@ -4,7 +4,7 @@
 
 Enterprise AI adoption and legacy modernization — governance, safety, and auditability first.
 
-Founded by [Augustin Chan](https://augustinchan.dev) · [digitalrain.studio](https://digitalrain.studio) · [𝕏](https://x.com/aug_digitalrain) · [LinkedIn](https://www.linkedin.com/in/auchan)
+Founded by [Augustin Chan](https://augustinchan.dev) · [digitalrain.dev](https://digitalrain.dev) · [𝕏](https://x.com/aug_digitalrain) · [LinkedIn](https://www.linkedin.com/in/auchan)
 
 ---
 
